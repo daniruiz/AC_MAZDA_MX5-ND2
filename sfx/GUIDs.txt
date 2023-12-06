@@ -1,0 +1,51 @@
+{47dcf37a-6a8d-4ef6-9f82-2e0398fa69f9} bank:/common
+{0866d50a-4902-4ecd-bc3a-fe3bae75ddc2} bank:/garage_dark
+{01a4acd5-640f-4282-a6b2-7394d3f5e8a9} bank:/hangar
+{54e23136-2c84-4e4f-adc0-538e7e72e5cf} bank:/industrial
+{4f6969ac-b7e1-45e5-84f1-31bc6f135357} bank:/showroom
+{2a5a4477-0c06-4a9b-ab0a-baaf52186fc3} bank:/sunset
+{e7a0a53c-47d9-43bc-b7b8-e52d665bb16f} event:/collisions/car/hit
+{30da2dc2-9c09-4556-8501-c6d54f63b689} event:/collisions/car/scrape
+{68d68373-2ebb-41cc-9825-fa6dcc0027c2} event:/collisions/object/hit
+{4bd6b486-ac12-483a-8e9e-4f587f8ec27f} event:/collisions/track/hit
+{e7c31cb2-ac8d-4a2a-abc0-855cf9dff82e} event:/collisions/track/scrape
+{4cc7ac44-8aaf-4473-91ea-aeca681ab958} event:/common/ambience
+{d1f12277-fe8f-4106-9fb2-3de595d54a1c} event:/common/dirt
+{f5666b9c-c659-459c-85bd-0eff6e92f7eb} event:/common/screw
+{deae65e4-a5a7-4810-8adb-277fe4a96aa3} event:/common/unscrew
+{e12a70e7-e6f0-4f8e-af53-0c06327a5a1d} event:/showrooms/garage_dark
+{378180d6-640f-40ef-90a0-c4bda57b37df} event:/showrooms/hangar
+{29246fa1-207d-44a5-8938-3592f26d38f6} event:/showrooms/industrial
+{f12c4de3-d817-4689-8985-f3a55d2274fc} event:/showrooms/showroom
+{b4184b4e-69e3-4699-af52-02f0783ec2ea} event:/showrooms/sunset
+{2cf5323a-2b34-4e01-ab6c-d0d6183d4ba7} event:/surfaces/extraturf
+{62b4885a-92af-4af5-9f6d-2a467ffa2e3f} event:/surfaces/grass
+{28e7a4ab-0e1c-4664-a7d8-b5fd89b024a0} event:/surfaces/gravel
+{599532a9-5dac-40b8-8458-b0d16f89699a} event:/surfaces/kerb
+{25b9a4aa-b8f7-4c53-ae28-0b98d81f732e} event:/surfaces/old
+{7aa66622-f8c0-45b0-9650-89f6fc14cab1} event:/surfaces/sand
+{c9bdf030-dda2-4d7c-9787-3dc4a166160c} event:/surfaces/tyre_rolling
+{94f04703-a92c-49cf-a097-734f3e79ec08} vca:/vca_engine_ext
+{ff157bb9-ecc1-49da-ad82-5e42fecb2ac9} vca:/vca_engine_int
+{f8b9d9e5-bd29-4a82-a1a0-66e8b9059ccb} vca:/vca_skid
+{45401f11-f5bd-429f-afb6-710deda49e32} vca:/vca_surfaces
+{a61eba16-8f14-4a39-8ffd-c573cfdc0dbd} vca:/vca_transmission
+{185673e8-d3ed-434c-acd4-61c819bb209c} vca:/vca_wind
+{ba2461a5-5578-4e94-96a3-bfd4d67aea04} event:/cars/ks_mazda_mx5_nd_STOCK/backfire_ext 
+{4acfce1d-5bae-4892-9996-961342d7e68a} event:/cars/ks_mazda_mx5_nd_STOCK/backfire_int 
+{be2da05f-94a0-4e40-99e8-59e6075521ed} event:/cars/ks_mazda_mx5_nd_STOCK/bodywork 
+{1271b5d6-c285-4f1b-87fb-f3f11c884ec2} event:/cars/ks_mazda_mx5_nd_STOCK/door 
+{0f429026-74f6-4de8-82f7-126c9f03814b} event:/cars/ks_mazda_mx5_nd_STOCK/engine_ext 
+{ccd38400-ac50-43a2-ab8a-4a37d38d20ca} event:/cars/ks_mazda_mx5_nd_STOCK/engine_int 
+{fa8c5ac9-6634-4b59-85b8-0b8305cf0929} event:/cars/ks_mazda_mx5_nd_STOCK/gear_ext 
+{f625c9dd-6225-4930-8dc1-de20b4ef98b5} event:/cars/ks_mazda_mx5_nd_STOCK/gear_grind 
+{48e2e3b6-07e9-481a-9b1b-2ee6cd5a325f} event:/cars/ks_mazda_mx5_nd_STOCK/gear_int 
+{b23a474e-9c04-4335-abe3-dff48fbee2a5} event:/cars/ks_mazda_mx5_nd_STOCK/horn 
+{e89385cb-00d8-4828-ba71-4ba066db0fbd} event:/cars/ks_mazda_mx5_nd_STOCK/limiter 
+{afb1d599-b9e7-4433-ae6e-ec52a5a5c887} event:/cars/ks_mazda_mx5_nd_STOCK/skid_ext 
+{966d78c4-681a-485d-9876-ca664e6b7a41} event:/cars/ks_mazda_mx5_nd_STOCK/skid_int 
+{1ca1a9ec-b5c4-4e3a-8001-be8465389523} event:/cars/ks_mazda_mx5_nd_STOCK/tractioncontrol_ext 
+{a2a6ecdc-8367-4274-a573-b7554afb7790} event:/cars/ks_mazda_mx5_nd_STOCK/tractioncontrol_int 
+{88a485bb-f7ea-43c4-94f5-54cfbeab34a3} event:/cars/ks_mazda_mx5_nd_STOCK/transmission 
+{5285c05c-ccae-4cd5-9daf-6dbc1b3c3452} event:/cars/ks_mazda_mx5_nd_STOCK/wheel 
+{26ffcfe4-d50f-4583-b35f-90f9741824a2} event:/cars/ks_mazda_mx5_nd_STOCK/wind 

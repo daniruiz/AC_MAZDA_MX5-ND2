@@ -1,0 +1,211 @@
+{
+  "name": "Mazda MX5 ND STOCK", 
+ 	"parent": "ks_mazda_mx5_nd",
+  "brand": "Mazda",
+  "description": "In terms of design, the latest edition of the best-selling roadster in history is arguably the<br>sportiest ever.<br><br>And what its looks promise, the technology can deliver. Under the bonnet, high-compression SKYACTIV-G petrol engines drive the rear wheels, while the specially-developed SKYACTIV-Chassis ensures the most advanced &#39;Jinba Ittai&#39; driver-and-car-as-one experience yet, including a choice of two ultra-efficient petrol engines (131bhp and 160bhp), and the first offered with a range of modern active safety and connectivity systems. At the same time, the MX-5 has remained true to its focus on lightweight simplicity and pure driving fun, dropping some 100kg relative to the third-generation model.<br><br>This MX-5 retains the charm, reliability, affordability and above all lightweight fun of the original model launched 25 years ago.",
+  "tags": [
+    "#small sports",
+    "rwd",
+    "manual",
+    "street",
+    "japan"
+  ],
+  "class": "street",
+  "specs": {
+    "bhp": "160 bhp",
+    "torque": "200Nm",
+    "weight": "1058 kg",
+    "topspeed": "214",
+    "acceleration": "7.3s 0-100",
+    "pwratio": "6.61 kg/hp"
+  },
+  "torqueCurve": [
+    [
+      0.0,
+      106.95187165775401
+    ],
+    [
+      68.0,
+      106.95187165775401
+    ],
+    [
+      136.0,
+      106.95187165775401
+    ],
+    [
+      204.0,
+      106.95187165775401
+    ],
+    [
+      272.0,
+      106.95187165775401
+    ],
+    [
+      340.0,
+      106.95187165775401
+    ],
+    [
+      408.0,
+      106.95187165775401
+    ],
+    [
+      476.0,
+      106.95187165775401
+    ],
+    [
+      500.0,
+      106.95187165775401
+    ],
+    [
+      1000.0,
+      117.64705882352942
+    ],
+    [
+      1500.0,
+      143.31550802139037
+    ],
+    [
+      2000.0,
+      164.70588235294119
+    ],
+    [
+      2500.0,
+      179.67914438502675
+    ],
+    [
+      3000.0,
+      186.09625668449198
+    ],
+    [
+      3250.0,
+      195.72192513368984
+    ],
+    [
+      3500.0,
+      188.23529411764707
+    ],
+    [
+      4000.0,
+      190.37433155080214
+    ],
+    [
+      4500.0,
+      195.72192513368984
+    ],
+    [
+      4600.0,
+      200.0
+    ],
+    [
+      5000.0,
+      196.7914438502674
+    ],
+    [
+      5500.0,
+      190.37433155080214
+    ],
+    [
+      6000.0,
+      185.02673796791444
+    ],
+    [
+      6500.0,
+      159.35828877005349
+    ],
+    [
+      6800.0,
+      127.9144385026738
+    ]
+  ],
+  "powerCurve": [
+    [
+      0.0,
+      0.0
+    ],
+    [
+      500.0,
+      7.7071290944123314
+    ],
+    [
+      884.0,
+      14.672696724470137
+    ],
+    [
+      1000.0,
+      16.955684007707131
+    ],
+    [
+      1224.0,
+      22.782342658959539
+    ],
+    [
+      1700.0,
+      37.210019267822737
+    ],
+    [
+      2500.0,
+      64.739884393063591
+    ],
+    [
+      3000.0,
+      80.462427745664741
+    ],
+    [
+      3250.0,
+      91.6763005780347
+    ],
+    [
+      3468.0,
+      94.562670982658958
+    ],
+    [
+      3500.0,
+      94.95183044315992
+    ],
+    [
+      4000.0,
+      109.7495183044316
+    ],
+    [
+      4500.0,
+      126.93641618497111
+    ],
+    [
+      4600.0,
+      132.59344894026975
+    ],
+    [
+      5000.0,
+      141.81117533718691
+    ],
+    [
+      6000.0,
+      160.0
+    ],
+    [
+      6120.0,
+      157.76628901734105
+    ],
+    [
+      6256.0,
+      154.97715175337186
+    ],
+    [
+      6460.0,
+      150.28026204238924
+    ],
+    [
+      6500.0,
+      149.28709055876686
+    ],
+    [
+      6800.0,
+      125.36107899807323
+    ]
+  ],
+  "country": "Japan",
+  "year": 2015,
+  "author": "Kunos",
+  "version": null,
+  "url": null
+}
