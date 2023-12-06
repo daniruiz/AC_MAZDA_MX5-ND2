@@ -31,21 +31,22 @@
 {45401f11-f5bd-429f-afb6-710deda49e32} vca:/vca_surfaces
 {a61eba16-8f14-4a39-8ffd-c573cfdc0dbd} vca:/vca_transmission
 {185673e8-d3ed-434c-acd4-61c819bb209c} vca:/vca_wind
-{ba2461a5-5578-4e94-96a3-bfd4d67aea04} event:/cars/ks_mazda_mx5_nd_STOCK/backfire_ext 
-{4acfce1d-5bae-4892-9996-961342d7e68a} event:/cars/ks_mazda_mx5_nd_STOCK/backfire_int 
-{be2da05f-94a0-4e40-99e8-59e6075521ed} event:/cars/ks_mazda_mx5_nd_STOCK/bodywork 
-{1271b5d6-c285-4f1b-87fb-f3f11c884ec2} event:/cars/ks_mazda_mx5_nd_STOCK/door 
-{0f429026-74f6-4de8-82f7-126c9f03814b} event:/cars/ks_mazda_mx5_nd_STOCK/engine_ext 
-{ccd38400-ac50-43a2-ab8a-4a37d38d20ca} event:/cars/ks_mazda_mx5_nd_STOCK/engine_int 
-{fa8c5ac9-6634-4b59-85b8-0b8305cf0929} event:/cars/ks_mazda_mx5_nd_STOCK/gear_ext 
-{f625c9dd-6225-4930-8dc1-de20b4ef98b5} event:/cars/ks_mazda_mx5_nd_STOCK/gear_grind 
-{48e2e3b6-07e9-481a-9b1b-2ee6cd5a325f} event:/cars/ks_mazda_mx5_nd_STOCK/gear_int 
-{b23a474e-9c04-4335-abe3-dff48fbee2a5} event:/cars/ks_mazda_mx5_nd_STOCK/horn 
-{e89385cb-00d8-4828-ba71-4ba066db0fbd} event:/cars/ks_mazda_mx5_nd_STOCK/limiter 
-{afb1d599-b9e7-4433-ae6e-ec52a5a5c887} event:/cars/ks_mazda_mx5_nd_STOCK/skid_ext 
-{966d78c4-681a-485d-9876-ca664e6b7a41} event:/cars/ks_mazda_mx5_nd_STOCK/skid_int 
-{1ca1a9ec-b5c4-4e3a-8001-be8465389523} event:/cars/ks_mazda_mx5_nd_STOCK/tractioncontrol_ext 
-{a2a6ecdc-8367-4274-a573-b7554afb7790} event:/cars/ks_mazda_mx5_nd_STOCK/tractioncontrol_int 
-{88a485bb-f7ea-43c4-94f5-54cfbeab34a3} event:/cars/ks_mazda_mx5_nd_STOCK/transmission 
-{5285c05c-ccae-4cd5-9daf-6dbc1b3c3452} event:/cars/ks_mazda_mx5_nd_STOCK/wheel 
-{26ffcfe4-d50f-4583-b35f-90f9741824a2} event:/cars/ks_mazda_mx5_nd_STOCK/wind 
+{ba2461a5-5578-4e94-96a3-bfd4d67aea04} event:/cars/ks_mazda_mx5_nd2/backfire_ext
+{4acfce1d-5bae-4892-9996-961342d7e68a} event:/cars/ks_mazda_mx5_nd2/backfire_int
+{be2da05f-94a0-4e40-99e8-59e6075521ed} event:/cars/ks_mazda_mx5_nd2/bodywork
+{1271b5d6-c285-4f1b-87fb-f3f11c884ec2} event:/cars/ks_mazda_mx5_nd2/door
+{0f429026-74f6-4de8-82f7-126c9f03814b} event:/cars/ks_mazda_mx5_nd2/engine_ext
+{ccd38400-ac50-43a2-ab8a-4a37d38d20ca} event:/cars/ks_mazda_mx5_nd2/engine_int
+{fa8c5ac9-6634-4b59-85b8-0b8305cf0929} event:/cars/ks_mazda_mx5_nd2/gear_ext
+{f625c9dd-6225-4930-8dc1-de20b4ef98b5} event:/cars/ks_mazda_mx5_nd2/gear_grind
+{48e2e3b6-07e9-481a-9b1b-2ee6cd5a325f} event:/cars/ks_mazda_mx5_nd2/gear_int
+{b23a474e-9c04-4335-abe3-dff48fbee2a5} event:/cars/ks_mazda_mx5_nd2/horn
+{e89385cb-00d8-4828-ba71-4ba066db0fbd} event:/cars/ks_mazda_mx5_nd2/limiter
+{afb1d599-b9e7-4433-ae6e-ec52a5a5c887} event:/cars/ks_mazda_mx5_nd2/skid_ext
+{966d78c4-681a-485d-9876-ca664e6b7a41} event:/cars/ks_mazda_mx5_nd2/skid_int
+{1ca1a9ec-b5c4-4e3a-8001-be8465389523} event:/cars/ks_mazda_mx5_nd2/tractioncontrol_ext
+{a2a6ecdc-8367-4274-a573-b7554afb7790} event:/cars/ks_mazda_mx5_nd2/tractioncontrol_int
+{88a485bb-f7ea-43c4-94f5-54cfbeab34a3} event:/cars/ks_mazda_mx5_nd2/transmission
+{5285c05c-ccae-4cd5-9daf-6dbc1b3c3452} event:/cars/ks_mazda_mx5_nd2/wheel
+{26ffcfe4-d50f-4583-b35f-90f9741824a2} event:/cars/ks_mazda_mx5_nd2/wind
+{c76b9b15-074e-4afa-8973-5522f7751ec5} bank:/ks_mazda_mx5_nd2
