@@ -1,0 +1,231 @@
+{
+  "name": "Mazda MX5 ND2",
+  "parent": "ks_mazda_mx5_nd",
+  "brand": "Mazda",
+  "description": "In terms of design, the latest edition of the best-selling roadster in history is arguably the<br>sportiest ever.<br><br>And what its looks promise, the technology can deliver. Under the bonnet, high-compression SKYACTIV-G petrol engines drive the rear wheels, while the specially-developed SKYACTIV-Chassis ensures the most advanced &#39;Jinba Ittai&#39; driver-and-car-as-one experience yet, including a choice of two ultra-efficient petrol engines (131bhp and 160bhp), and the first offered with a range of modern active safety and connectivity systems. At the same time, the MX-5 has remained true to its focus on lightweight simplicity and pure driving fun, dropping some 100kg relative to the third-generation model.<br><br>This MX-5 retains the charm, reliability, affordability and above all lightweight fun of the original model launched 25 years ago.",
+  "tags": [
+    "#small sports",
+    "rwd",
+    "manual",
+    "street",
+    "japan"
+  ],
+  "class": "street",
+  "specs": {
+    "bhp": "184bhp",
+    "torque": "205Nm",
+    "weight": "1095kg",
+    "topspeed": "219",
+    "acceleration": "6.5s 0-100",
+    "pwratio": "5.95kg/hp"
+  },
+  "torqueCurve": [
+    [
+      0.0,
+      100.98522167487684
+    ],
+    [
+      75.0,
+      100.98522167487684
+    ],
+    [
+      150.0,
+      100.98522167487684
+    ],
+    [
+      225.0,
+      100.98522167487684
+    ],
+    [
+      300.0,
+      100.98522167487684
+    ],
+    [
+      375.0,
+      100.98522167487684
+    ],
+    [
+      450.0,
+      100.98522167487684
+    ],
+    [
+      500.0,
+      100.98522167487684
+    ],
+    [
+      1000.0,
+      111.08374384236453
+    ],
+    [
+      1500.0,
+      135.32019704433498
+    ],
+    [
+      2000.0,
+      155.51724137931035
+    ],
+    [
+      2500.0,
+      169.65517241379311
+    ],
+    [
+      3000.0,
+      181.77339901477833
+    ],
+    [
+      3500.0,
+      192.88177339901478
+    ],
+    [
+      4000.0,
+      198.94088669950739
+    ],
+    [
+      4250.0,
+      195.91133004926107
+    ],
+    [
+      4500.0,
+      196.92118226600985
+    ],
+    [
+      5000.0,
+      205.0
+    ],
+    [
+      5500.0,
+      195.91133004926107
+    ],
+    [
+      6000.0,
+      185.81280788177341
+    ],
+    [
+      6500.0,
+      183.79310344827587
+    ],
+    [
+      6650.0,
+      181.77339901477833
+    ],
+    [
+      7000.0,
+      167.63546798029557
+    ],
+    [
+      7200.0,
+      160.56650246305418
+    ],
+    [
+      7500.0,
+      100.98522167487684
+    ]
+  ],
+  "powerCurve": [
+    [
+      0.0,
+      0.0
+    ],
+    [
+      500.0,
+      7.6858813700918969
+    ],
+    [
+      900.0,
+      14.941353383458647
+    ],
+    [
+      1000.0,
+      16.908939014202172
+    ],
+    [
+      1200.0,
+      22.061553884711785
+    ],
+    [
+      1425.0,
+      28.563809523809528
+    ],
+    [
+      1800.0,
+      40.396992481203007
+    ],
+    [
+      2850.0,
+      77.28
+    ],
+    [
+      3500.0,
+      102.76023391812866
+    ],
+    [
+      4000.0,
+      121.12949039264831
+    ],
+    [
+      4250.0,
+      126.74018379281539
+    ],
+    [
+      4500.0,
+      134.8872180451128
+    ],
+    [
+      5000.0,
+      156.02339181286553
+    ],
+    [
+      5400.0,
+      162.52872180451129
+    ],
+    [
+      5500.0,
+      164.01670843776108
+    ],
+    [
+      5775.0,
+      167.33508771929829
+    ],
+    [
+      6000.0,
+      169.70426065162909
+    ],
+    [
+      6500.0,
+      181.84795321637429
+    ],
+    [
+      6650.0,
+      184.0
+    ],
+    [
+      6750.0,
+      182.61654135338347
+    ],
+    [
+      6900.0,
+      180.31077694235592
+    ],
+    [
+      7000.0,
+      178.61988304093569
+    ],
+    [
+      7125.0,
+      177.01785714285717
+    ],
+    [
+      7200.0,
+      175.97593984962407
+    ],
+    [
+      7500.0,
+      115.28822055137846
+    ]
+  ],
+  "country": "Japan",
+  "year": 2019,
+  "author": null,
+  "version": null,
+  "url": null
+}
